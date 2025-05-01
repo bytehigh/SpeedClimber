@@ -11,7 +11,7 @@ __pycache__/
 
 # OS specific
 .DS_Store
-Thumbs.db
+Thumbs.db#
 
 # Media files
 *.mp4
